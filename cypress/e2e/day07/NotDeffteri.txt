@@ -1,0 +1,3 @@
+CYPRESS NOTS
+1) Cypress Install
+2) Plulins 

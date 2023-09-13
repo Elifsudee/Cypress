@@ -61,3 +61,11 @@ BİRDEN FAZLA BROWSERDA TESTLERİ ÇALIŞTIRMAK İÇİN
 2) 1. terminale npx cypress run --spec 'cypress/e2e/day02/' --browser chrome --headed
 3) 2. terminale npx cypress run --spec 'cypress/e2e/day02/' --browser firefox --headed
 4) 2 terminalde de entera bas
+
+"test-dashboard" :"npx cypress run --record --key c00f2a64-0de6-46cd-a370-a4f9c2b71469"
+
+npm run test_dashboard ==butun testleri calistiri dasborda gonderiri
+
+"dashboard_day02" :"npx cypress run --spec 'cypress/e2e/day02/' --record --key c00f2a64-0de6-46cd-a370-a4f9c2b71469"
+npm run dashboard_day02 sadece day 02 deki calistirilicak
+
